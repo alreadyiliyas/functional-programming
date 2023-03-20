@@ -1,3 +1,4 @@
+//Dimonti was here
 let ws = new WebSocket('ws://localhost:8000/ws');
 let infoDisplay = document.getElementById('info')
 let currentPlayerDisplay = document.getElementById('current-player')
