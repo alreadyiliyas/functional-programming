@@ -1,10 +1,14 @@
 //Dimonti was here
+<<<<<<< HEAD
 
 
 
 //TEST
 
 //LastCommit
+=======
+//Dimonti is gone
+>>>>>>> c9e696b96b3644c74ba561d2238e6e724af6b1bb
 let ws = new WebSocket('ws://localhost:8000/ws');
 let infoDisplay = document.getElementById('info')
 let currentPlayerDisplay = document.getElementById('current-player')
